@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/XarrayTutorial.iml" filepath="$PROJECT_DIR$/.idea/XarrayTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XArrayExample/.idea/XarrayExample.iml" filepath="$PROJECT_DIR$/../XArrayExample/.idea/XarrayExample.iml" />
     </modules>
   </component>
 </project>
