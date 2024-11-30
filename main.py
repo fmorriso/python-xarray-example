@@ -25,5 +25,6 @@ def simple_x_y():
 
 
 if __name__ == '__main__':
-    print(f'Xarray Example using python version {get_python_version()}, XArray version {xr.__version__} and NumPy {np.__version__}')
+    print(
+        f'Xarray Example using python version {get_python_version()}, XArray version {xr.__version__} and NumPy {np.__version__}')
     simple_x_y()
