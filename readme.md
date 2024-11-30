@@ -16,4 +16,4 @@
 | XArray  | 2024.11.0 |
 | NumPy   |     2.1.3 |
 | PyCharm |  2024.2.3 |
-| VSCode  |    1.95.2 |
+| VSCode  |    1.95.3 |
